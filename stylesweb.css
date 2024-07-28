@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    width: 100%;
+    background: pink;
+    padding: 10px 0;
+}
+section{
+position :relative;
+color:red;
+}
+p{
+color:black;
+}
